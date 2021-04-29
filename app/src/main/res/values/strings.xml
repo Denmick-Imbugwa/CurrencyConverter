@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConverterApp</string>
+    <string name="Convert">Convert to Dollars</string>
+    <string name="appear">Will appear here</string>
+</resources>
